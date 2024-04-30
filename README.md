@@ -1,4 +1,4 @@
-# vector_Server_client
+# vector-server-client
 Work carried out for the Operating Systems subject.
 
 This project involves a client sending a vector with high dimensions to a server via sockets. The server then filters the vector and sends the filtered result back to the client. The server is designed to handle multiple connections from different clients concurrently using threads, enabling concurrent processing.
